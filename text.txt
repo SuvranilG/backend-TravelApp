@@ -1,0 +1,10 @@
+"repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakashsakari/travel_app_GFG_strudent_version.git"
+  },
+
+
+"bugs": {
+    "url": "https://github.com/prakashsakari/travel_app_GFG_strudent_version/issues"
+  },
+  "homepage": "https://github.com/prakashsakari/travel_app_GFG_strudent_version#readme",
